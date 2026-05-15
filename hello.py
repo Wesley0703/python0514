@@ -7,7 +7,7 @@ print(sys.version)
 
 name = "Alice"
 greeting = 'Hello, World!'
-
+print(123)
 print(name)
 print(greeting)
 text = "  Hello, Python  "
