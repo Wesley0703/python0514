@@ -1,5 +1,9 @@
 print("Hello, Python!")
+<<<<<<< HEAD
 print(456)
+=======
+print(123)
+>>>>>>> ac1b9dbe7879f4435b09794ee649e8e16516e7b6
 import sys
 
 print("===============")
