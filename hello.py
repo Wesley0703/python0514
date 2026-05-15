@@ -1,5 +1,5 @@
 print("Hello, Python!")
-
+print(123)
 import sys
 
 print("===============")
