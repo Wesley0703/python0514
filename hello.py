@@ -34,7 +34,7 @@ print("Python" in text2)          # True
 print(text2.replace("Hello", "Hi"))   # "Hi, Python"
 print("a,b,c".split(","))             # ['a', 'b', 'c']
 print(",".join(["a", "b", "c"]))      # "a,b,c"
-
+print(*456)
 # 補位
 print("42".zfill(5))          # "00042"
 print("hi".center(10))        # "    hi    "
