@@ -1,6 +1,4 @@
-print("Hello, Python!")
-print(456):
->>>>>>> 5151ab83f70718311335d1a640292f9141fb11e5
+
 import sys
 
 print("===============")
